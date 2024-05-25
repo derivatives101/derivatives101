@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+**C. Augusto Casas
+**
+As a dedicated professor of cybersecurity with over 20 years of teaching experience, my core philosophy revolves around fostering a learning environment where students are the central focus. My commitment to education is reflected in my approach to course design, where I employ backward design principles to ensure that learning objectives are met effectively. I meticulously craft courses that adhere to the Quality Matters Rubric and prioritize accessibility, ensuring that all students have equal opportunities to succeed regardless of their learning needs.
+
+My goal is to empower students with the knowledge and skills necessary to excel in the ever-evolving field of cybersecurity. By integrating real-world scenarios and hands-on experiences into my curriculum, I strive to bridge the gap between theoretical knowledge and practical application. True learning occurs when students are engaged, challenged, and supported throughout their educational journey.
+
+I am proud to have contributed to the growth and success of countless information systems professionals. As I continue to evolve as an educator, my focus remains steadfast on enhancing student learning outcomes and preparing the next generation of cybersecurity experts to tackle the challenges of tomorrow.
+
 <!--
 **derivatives101/derivatives101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
